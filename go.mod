@@ -1,4 +1,4 @@
-module www.velocidex.com/golang/go-ntfs
+module github.com/jdkuki/go-ntfs
 
 require (
 	github.com/alecthomas/assert v1.0.0
